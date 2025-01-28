@@ -3,8 +3,6 @@
 
 A responsive tribute page for Real Madrid's star forward Kylian Mbappé.
 
-![Preview](/assets/mbappe-preview.jpg)
-
 ## Features
 - Clean, modern design
 - Responsive layout
