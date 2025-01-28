@@ -18,4 +18,4 @@ A responsive tribute page for Real Madrid's star forward Kylian Mbappé.
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/mbappe-profile.git
+git clone https://github.com/omar0930/mbappe-profile.git
